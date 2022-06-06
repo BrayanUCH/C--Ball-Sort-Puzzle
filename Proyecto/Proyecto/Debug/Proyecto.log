@@ -1,0 +1,19 @@
+﻿  Instrucciones.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\Instrucciones.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  juego.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\juego.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\Main.cpp(1,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Menu.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\Menu.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  NIVEL 3.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\NIVEL1.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  NIVEL1.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\NIVEL1.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  NIVEL2.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\NIVEL1.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  NIVEL4.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\NIVEL1.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  NIVEL5.cpp
+C:\Users\braya\Documents\DOCUMENTOS\PROGRAMAS\C-C++\Proyecto\Proyecto\Proyecto\NIVEL1.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  Generando código...
